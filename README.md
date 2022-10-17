@@ -1,5 +1,7 @@
+Hi, thx for steping by, pls don't hesitate on reaching me :smiling_imp:
 
-- 🌱 I’m currently learning Js
+
+- :flushed: I’m currently learning React
 
 - 📫 How to reach me gmail: erick.parada101@gmail.com
 
