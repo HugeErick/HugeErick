@@ -28,7 +28,7 @@ Scroll down to see what I’m currently hacking on and the tool-belt I use.
 
 ## 📈 GitHub Stats
 
-![Erick’s GitHub stats](https://github-readme-stats.vercel.app/api?username=erickgonzalezp&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugeErick&hide_progress=true)
 
 ---
 
