@@ -52,7 +52,7 @@ Mongo/SQL    ████████████████████░░ 
 
 ## 📬 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-gonzalez-810883335)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00c4a7?style=flat&logo=vercel&logoColor=white)](https://portafolio-delta-wheat.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00c4a7?style=flat&logo=vercel&logoColor=white)](https://unwanted-portafolio.vercel.app/)  
 
 ---
 
